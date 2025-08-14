@@ -1,6 +1,6 @@
-import Componentes.AparelhoTelefonico;
-import Componentes.NavegadorInternet;
-import Componentes.ReprodutorMusical;
+import componentes.AparelhoTelefonico;
+import componentes.NavegadorInternet;
+import componentes.ReprodutorMusical;
 
 public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
     @Override

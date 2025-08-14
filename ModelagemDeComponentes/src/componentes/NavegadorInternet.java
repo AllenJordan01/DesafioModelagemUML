@@ -1,4 +1,4 @@
-package Componentes;
+package componentes;
 
 public interface NavegadorInternet {
     void exibirPagina(String url);
